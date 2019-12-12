@@ -7,3 +7,14 @@
  <a href="https://github.com/numba/llvmlite"> llvmite </a> ,  </br>
  a zatim izvrsavanje tog medjukoda i ispisivanje rezultata funkcije. </br>
  </p>
+ 
+ 
+ 
+ 
+ <h3>requires:</h3>
+<ul> 
+ <li> graphViz </li>
+ <li>astor </li>
+ <li> showast </li>
+ <li> llvmite </li>
+</ul>
